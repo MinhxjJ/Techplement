@@ -8,12 +8,12 @@ Features :
 - Take quizzes with scoring and feedback
 - Delete existing questions
 - Persistent storage using MySQL and Hibernate
-- 
+
 Requirements : 
 - Java 8 or later
 - MySQL installed and running
 - Hibernate
-- 
+  
 Database Setup : 
 1. Open MySQL and create the database:
  CREATE DATABASE quizdb;
